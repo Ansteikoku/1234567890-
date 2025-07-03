@@ -1,0 +1,30 @@
+body {
+  font-family: "Meiryo", sans-serif;
+  margin: 0;
+  background: #f8fff8;
+  color: #000;
+}
+.topbar {
+  background: #ccffcc;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  font-weight: bold;
+}
+.board-tabs {
+  display: flex;
+  background: #e0ffe0;
+  border-bottom: 1px solid #aaa;
+}
+.board-tabs div {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+.board-tabs div:hover {
+  background: #c0f0c0;
+}
+.main {
+  padding: 16px;
+}
