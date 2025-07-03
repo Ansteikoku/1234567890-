@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  background-color: #f0fff0;
+}
+textarea, input {
+  width: 100%;
+  margin-bottom: 10px;
+}
